@@ -1,5 +1,11 @@
-## Hi there 👋
+### 👋 Hi, I'm Sujal Upadhyay  
 
+Aspiring **Data Analyst** skilled in **Power BI, SQL, and Python**, with experience in data visualization, automation, and analytics.  
+I enjoy turning raw data into meaningful insights that support business decisions.  
+
+- Automated reports and optimized dashboards as a Data & Web Development Intern at **Basket Hunt**.  
+- Built projects like **ITC Hotels Analytics**, **Weather Data Dashboard**, **Sentiment Analysis**, and **Number Plate Recognition**.  
+- Passionate about continuous learning and data-driven problem solving.
 <!--
 **sujalupadhyay1/sujalupadhyay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
